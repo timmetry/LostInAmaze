@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":false,"name":"HeroStart","order":2,"parentId":3,"scrollX":982.8,"scrollY":543.6},
+{"id":1,"expanded":false,"name":"HeroStart","order":2,"parentId":3,"scrollX":811,"scrollY":499},
 {"id":2,"expanded":true,"name":"Mazes","order":6,"parentId":0,"scrollX":982.8,"scrollY":543.6},
-{"id":3,"expanded":true,"name":"CharacterCreation","order":1,"parentId":0,"scrollX":982.8,"scrollY":543.6},
+{"id":3,"expanded":true,"name":"CharacterCreation","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":4,"expanded":false,"name":"HeroStart-Maze","order":3,"parentId":3,"scrollX":982.8,"scrollY":543.6},
-{"id":5,"expanded":false,"name":"Maze1-1","order":4,"parentId":0,"scrollX":973.1999999999999,"scrollY":896.4},
-{"id":6,"expanded":false,"name":"LadyLynne-Backstory1","order":5,"parentId":0,"scrollX":982.8,"scrollY":543.6},
+{"id":5,"expanded":false,"name":"Maze1-1","order":4,"parentId":0,"scrollX":811,"scrollY":896},
+{"id":6,"expanded":false,"name":"LadyLynne-Backstory1","order":5,"parentId":0,"scrollX":819,"scrollY":461},
 null,
 {"id":8,"expanded":true,"name":"Test","order":7,"parentId":0,"scrollX":982.8,"scrollY":543.6},
-{"id":9,"expanded":false,"name":"Puzzles","order":8,"parentId":8,"scrollX":973.1999999999999,"scrollY":543.6}
+{"id":9,"expanded":false,"name":"Puzzles","order":8,"parentId":8,"scrollX":811,"scrollY":544}
 ]
