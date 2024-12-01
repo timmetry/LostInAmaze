@@ -1,15 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"HeroStart","order":2,"parentId":3,"scrollX":811,"scrollY":450},
+{"id":1,"expanded":true,"name":"HeroStart","order":2,"parentId":3,"scrollX":1092,"scrollY":604},
 {"id":2,"expanded":true,"name":"Mazes","order":6,"parentId":0,"scrollX":819,"scrollY":448},
 {"id":3,"expanded":true,"name":"CharacterCreation","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"HeroStart-Maze","order":3,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Maze1-1","order":4,"parentId":0,"scrollX":816,"scrollY":800},
-{"id":6,"expanded":false,"name":"LadyLynne-Backstory1","order":5,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":7,"expanded":true,"name":"Intro Cutscene","order":9,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
-{"id":8,"expanded":true,"name":"Test","order":7,"parentId":0,"scrollX":982.8,"scrollY":543.6},
-{"id":9,"expanded":false,"name":"Puzzles","order":8,"parentId":8,"scrollX":811,"scrollY":448},
-{"id":10,"expanded":false,"name":"Birthing Chamber","order":12,"parentId":11,"scrollX":819,"scrollY":461},
-{"id":11,"expanded":true,"name":"Epic","order":11,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":12,"expanded":false,"name":"Intro Map 1","order":10,"parentId":7,"scrollX":1216.5,"scrollY":691.5}
+{"id":4,"expanded":false,"name":"HeroStart-Maze","order":3,"parentId":3,"scrollX":1092,"scrollY":604},
+{"id":5,"expanded":false,"name":"Maze1-1","order":4,"parentId":0,"scrollX":1081.3333333333333,"scrollY":800},
+{"id":6,"expanded":false,"name":"LadyLynne-Backstory1","order":5,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":7,"expanded":true,"name":"Intro Cutscene","order":9,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":8,"expanded":true,"name":"Test","order":7,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":9,"expanded":false,"name":"Puzzles","order":8,"parentId":8,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":10,"expanded":false,"name":"Birthing Chamber","order":12,"parentId":11,"scrollX":1092,"scrollY":604},
+{"id":11,"expanded":true,"name":"Epic","order":11,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":12,"expanded":false,"name":"Intro Map 1","order":10,"parentId":7,"scrollX":1081.3333333333333,"scrollY":692},
+{"id":13,"expanded":false,"name":"Maze-Start","order":13,"parentId":11,"scrollX":1081.3333333333333,"scrollY":836}
 ]
